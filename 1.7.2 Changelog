@@ -1,0 +1,246 @@
+//changelog from v0.19a to v0.19b
+
+//changes
+-RECIPES!!! Remember, NEI is your FRIEND!
+++Made it harder to make Archimedes Ships for balance purposes
+++Disabled wood/stone weapons from Balkons and Mine&Blade
+++Replaced sticks from several recipes with wooden tool rods (TiC)
+++New Shears, bucket, watering can recipes
+++Tiered Armor fix
+++Log to Plank recipe changes
+-Added Natura Trees/Leaves to VeinMiner
+
+//additions
+-Added NEIForestry v1.1 (Adds Forestry recipes to NEI)
+
+//updates
+-Updated OharaicaineTweaks from v1.1 to v1.3
+-Updated MineTweaker 3 from v3.0.5 to v3.0.6
+-Updated Lycanites Mobs from v1.6.3 to v1.6.4b
+-Updated IronChests from v6.0.32.724 to v6.0.32.725
+-Updated ExtraCells2 from v2.1.1 to v2.1.6
+-Updated Doomlike Dungeons from v1.2.13 to v1.3.0
+-Updated CodeChickenCore from v1.0.1.7 to v1.0.2.10
+-Updated Botania from v1.1-67 to v1.1-83
+-Updated Twilight Forest from v2.1.1 to v2.2.3
+-Updated BiblioCraft from v1.7.1 to v1.7.5
+-Updated Forestry from v2.4.1.27 to v2.4.1.28
+-Updated Chisel from v1.5.4f to v1.5.4g
+-Updated Carpenter's Blocks from v3.2.1 to v3.2.5
+-Updated Blood Magic from v1.0.1g to v1.1.0
+-Updated Biomes O' Plenty from v2.0.1.892 to v2.0.2.932
+-Updated Applied Energistics 2 from v.rv0-stable-2 to v.rv0-stable-9
+-Updated The Spice of Life from v1.0.5a to v1.1.0
+
+
+
+----------------------------------------------------------
+
+
+//changelog from v0.18c to v0.19a
+
+//changes
+-Complete Biome rewrite (Yes, new worlds are needed!)
+-Changed In-game time to 12hr format
+-Changes to Infernal Mobs
+-Fixed Pam's HC Skillet recipe conflict
+-Enabled Carpenter's Torch recipe (modified recipe)
+
+//removals
+-Removed Buildcraft v6.0.16EXP
+-Removed BuildCraft Additions (Doesn't support v5 of BC)
+
+//additions
+-Added BuildCraft v5.0.6
+-Added Natura v2.2.0a3
+-Added Dimensional Anchors v58.1.3
+++Added Immibis Core v58.1.4 (Dimensional Anchor dependency)
+-Added Iguana Tweaks vBeta-15
+++No more sleeping
+++Poison now kills (watch that rain!)
+++Certain surfaces will slow you down
+-Added The Spice of Life v1.0.5a
+++Diminishing returns on eating same food
+-Added Oharaicaine Tweaks 1.1
+
+//updates
+-Updated Stackie from v1.5.0.24 to v1.5.0.25
+-Updated Lycanites Mobs from v1.6.2c to v1.6.3
+++New mob!
+-Updated MineTweaker from v3.0.1 to v3.0.5
+++Torches can now be made in stacks instead of one at a time!
+-Updated ExtraCells2 from v2.0.19 to v2.1.1
+-Updated CodeChickenCore from v1.0.0 to v1.0.1.7
+-Updated CodeChickenLib from v1.1.1.87 to v1.1.1.92
+-Updated NEI from v1.0.1 to v1.0.2.14
+-Updated Doomlike Dungeons from v1.2.11 to v1.2.13
+++Fixed crash bug
+
+
+
+----------------------------------------------------------
+
+
+//changelog from v0.18b to v0.18c
+
+//changes
+-Increased Lycanite mob spawns, too nerfed before.
+-new pack logo!
+-Added another torch recipe using Woven Cotton
+-Turned Forestry Tin and Copper ore gen off
+-Ported custom recipes from Recipe Tweaker to MineTweaker
+-Fixed the VeinMiner changes from last patch to actually work.
+-Fixed Biome ID conflict that cause some Nether to creep into Overworld
+
+//removals
+-Recipe Tweaker "mcTweaker" (Sorry Moze, they want their SMP!)
+-Removed The Kitchen Mod
+
+//additions
+-MineTweaker v3.0.1
+
+//updates
+-Updated EnderIO from 1.1.0_alpha.114 to 2.0_beta.123
+-Updated Botania from r1.1-63 to r1.1-67
+-Updated InGame Info XML from 2.6.2.48 to 2.6.2.49
+-Updated TiC Tooltips from 1.1.7 to 1.1.8
+
+
+----------------------------------------------------------
+
+//changelog from v0.18a to v0.18b
+
+//changes
+-Added Snow, Snow Blocks, Sky Stone, and Lucky Blocks to veinminer.
+
+----------------------------------------------------------
+
+//changelog from v0.17c to v0.18a
+
+//changes
+-Torch recipe is now shapeless
+-Lowered Battle Tower gen rate
+
+//removals
+-Removed DungeonPack
+-Removed PnuematicCraft
+
+//additions
+-Added Roguelike Dungeons v1.3.3
+-Added The Kitchen Mod v1.2.0
+-Added TMechworks v64.2fe872a
+-Added EnderTanks v.rev15
+++Added ShetiPhianCore v2 (dependency of EnderTanks)
+
+//updated
+-Updated Forge from 10.12.2.1127 to 10.12.2.1147
+++Should fix Vec3pool crashes that have been happening
+-Updated Applied Energistics 2 from rv0-beta-34 to rv0-stable-2
+-Updated Tinker's Construct from 1.6.0.a14 to 1.6.0.jenkins500
+-Updated Mantle from 0.2.8 to 149.5b27d20
+-Updated Inventory Tweaks from 1.57-116 to 1.58-dev-121
+-Updated bspkrsCore from 6.9 to 6.11
+-Updated CodeChickenLib from 1.1.1.80 to 1.1.1.87
+-Updated Carpenter's Blocks from 3.2.0 to 3.2.1
+-Updated Biomes O' Plenty from 2.0.1.890 to 2.0.1.892
+
+
+----------------------------------------------------------
+
+//changelog from v0.17b to 0.17c
+
+//changes
+-Lowered Botania flower generation.
+-Moved OpenEye to be set as an optional mod
+-Lowered Lycanite's Mod Spawning down to allow more vanilla mobs in
+-Turned Lycanite's custom potion effects back on.
+-Turned off Mod Update Checker for MCA
+-Made Tower Golems always Infernal
+-Made flint recipe shapeless
+-Disabled HarvestCraft Bee Hives
+
+//removals
+-Removed AsieLib
+++No longer needed (remnant of old version of pack)
+-Removed UpdateChecker for AtomikStryker mods
+++Not needed for public and cut down on bandwidth use.
+
+//additions
+-Added the Random Things v2.1
+-Added TiC Tooltips v1.1.7 (Client side mod)
+
+//updates
+-Updated Lycanite's Mobs from 1.6.2b to 1.6.2c
+++Fix for custom potion effects crashes! YAY!
+-Updated Botania from r1.1-60 to r1.1-63
+-Updated Carpenter's Blocks from 3.1.6 to 3.2.0
+-Updated Opis from 1.2.2 to 1.2.2a
+
+
+
+----------------------------------------------
+
+//changelog from v0.17a to v0.17b
+
+//changes
+-Fixed the removal of Wooden Shovel to actually be removed.
+-Disabled Custom Potion effects in Lycanite's for crash reasons. Will re-enable when a fix is pushed.
+
+//updates
+-Updated AsieLib from 0.2.3 to 0.2.4
+++Bug fixes
+-Updated Botania from r1.0-57 to r1.1-60
+++New Items
+++Bug fixes
+-Updated Lycanites Mobs from 1.6.2 to 1.6.2b
+++Bug fixes
+-Updated BuildCraft Additions from 1.5.3 to 1.5.4
+++Canisters now stack in the output of the fluidic compressor
+++Added gate triggers for the fluidic compressor (canister requested, has empty canister, has full canister)
+++Added gate triggers for the charging station (ready to charge, done charging)
+++Added config file (controls version checking and power usage of the tools)
+++Added logger for output to the log
+
+----------------------------------------------
+
+//changelog from v0.16c to v0.17a
+
+//changes
+-Changed Veinminer default key from keybind to sneak
+-Altered custom flint recipe (3 gravel = 1 flint)
+
+//removals
+-Removed Pam's Simple Recipes
+
+//additions
+-Added Stackie v1.5.0.24
+
+//updates
+-Updated Forge from 10.12.1.1110 to 10.12.1.1127
+++Bug fixes
+-Updated Pam's Harvestcraft from 1.7.2c to 1.7.2e
+++Bug fixes and 49 new foods added!
+-Updated Applied Energistics 2 from rv0-beta-24 to rv0-beta-34
+++Bug fixes
+-Updated Biomes O' Plenty from 2.0.1.878 to 2.0.1.890
+++Bug fixes
+++Re-adds Forestry integration
+-Updated Carpenter's Blocks from 3.1.5 to 3.1.6
+++Bug Fixes
+-Updated Doomlike Dungeons from 1.2.10 to 1.2.11
+++Minor bug fixes
+-Updated EnderIO from alpha.98 to alpha.114
+++Bug fixes
+-Updated ExtraCells from 2.0.0 to 2.0.19
+-Updated Forestry from 2.4.1.25 to 2.4.1.27
+++Bug fixes
+-Updated Forge Multipart from 1.1.0.282 to 1.1.0.283
+-Updated IronChests2 from 6.0.14.719 to 6.0.32.724
+-Updated Lycanite's Mobs from 1.6.1f to 1.6.2
+++New Yeti Mob
+-Updated OpenEye from 0.5 to 0.6
+-Updated Simple Fluid Tanks from 1.1.1.0 to 1.1.1.2
+++Bug fixes
+++WAILA integration
+-Updated Infernal Mobs to 1.5.3
+-Updated Ruins to 13.3
