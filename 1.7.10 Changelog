@@ -1,0 +1,341 @@
+//changes from v0.22d to v0.22e
+
+//changes
+-Disabled Wheat to Wheat Flour recipe in Natura
+-Lowered Zephyr spawn amount
+-Lowered Afrit spawn amount
+-Added Pear and Plum juice recipes
+-Disabled Lycanite's Mob Events til I can properly test/configure, it is a bit aggressive currently
+-Pam's HC update adds in MFR compat! YAY!
+
+//removals
+
+//additions
+-Added AppleCore v1.0.0 (Dependency of Spice of Life as of latest update)
+
+//updates
+-Updated Botania from v1.2-116 to v1.2-117
+-Updated Carpenter's Blocks from v3.2.7 to v3.3.0
+-Updated Pam's Harvestcraft from v1.7.10a to 1.7.10b
+-Updated Spice of Life from v1.1.1 to v1.2.1
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.22c to v0.22d
+
+//changes
+-Downgraded Iguana's Tinker Tweaks from v2.0.6 to v2.0.4 to fix crash issue with Tinkers Construct
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.22b to v0.22c
+
+//changes
+-Downgraded Forge from .1217 to .1207 to fix crash issue with ForgeMultiPart
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.22a to v0.22b
+
+//changes
+-Added Chisel blocks (not including connected textures as they do not work) to Microblocks
+-Enabled custom recipes for Balkon's Weaponmod
+-Fixed JABBA Barrel Hammer recipe conflict
+-Disabled TiC knapsacks to fix dupe glitch <TConstruct:knapsack> * 1
+-Raised Max Tool Level to 10 from 6.
+-Added Meteor Mod support to VeinMiner.
+-Added Iguana Tinker Tweaks saws (ardite, cobalt, manyullyn) to wood recipes.
+
+//removals
+-Removed ProjectRed (Base, Compat, & Integration)
+--Use RedNet instead.
+-Removed Ohairacaine Tweaks
+--No longer needed.
+
+//additions
+
+//updates
+-Updated Applied Energistics from rv1-beta-27 to rv1-stable-1
+-Updated BiblioCraft from v1.7.5 to v1.8.1
+-Updated BiblioWoods [BoP] from v1.7 to v1.8
+-Updated BiblioWoods [Natura] from v1.3 to v1.4
+-Updated Biomes O' Plenty from v2.1.0.988 to v2.1.0.991
+-Updated Chisel from v1.5.6b to v1.5.7
+-Updated FMPIntegration from v1.0 to v1.2.2
+-Updated Forge from v10.13.0.1207 to v10.13.1.1217
+-Updated Hardcore Ender Expansion from v1.6.2 to v1.6.3
+-Updated Iguana's Tinker Tweaks from v2.0.4 to v2.0.6
+-Updated InGame Info XML from v2.8.1.61 to v2.8.1.62
+-Updated Lucky Block from v5.0.0 to v5.1.0
+-Updated Lunatrius Core from v1.1.2.11 to v1.1.2.14
+-Updated Lycanite's Mobs from v1.9.1b to v.1.10.0c
+-Updated Mine & Blade - Battlegear 2 from v1.0.5.7 to v1.0.6.0
+-Updated TiC Tooltips from v1.1.10 to v1.1.11b
+-Updated Waila from v1.5.3a to v1.5.4a
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.21c to v0.22a
+
+//changes
+-FastCraft (optional mod) can fix lag/slow loading issues for some players. Strongly suggest using this mod.
+
+//removals
+
+
+//additions
+-Added Dark Menagerie vBeta-1.0
+-Added FastCraft (Optional) v1.9
+-Added NEI Plugins (Unofficial) v1.1.0.8
+
+//updates
+-Updated AOBD from v2.2.3 to v2.2.4
+-Updated Applied Energistics 2 from rv0-stable-10 to rv1-beta-27
+-Updated Arcane Scrolls from v3.2.0.25 to v3.2.1.26
+-Updated Baubles from v1.0.1.5 to v1.0.1.7
+-Updated Biomes O' Plenty from v2.1.0.977 to v2.1.0.988
+-Updated Botania from v1.2-104 to v1.2-116
+-Updated Carpenter's Blocks from v3.2.6 to v3.2.7
+-Updated CodeChickenCore from v1.0.3.23 to v1.0.3.26
+-Updated CoFH Core from v3.0.0B5-30 to v3.0.0B6-32
+-Updated CoFH Lib from v1.0.0B4-24 to v1.0.0B6-26
+-Updated Ender Storage from v1.4.5.19 to v1.4.5.24
+-Updated EnviroMine from v1.2.17 to v1.2.23
+-Updated Extra Cells 2 from v2.1.6(rv0) to v2.1.11(rv1)
+-Updated ExtraUtilities from v1.1.0i to v1.1.0k
+-Updated Iguana Tweaks from v1.7.2-Beta-15 to v1.7.10-Beta-17
+-Updated Iguana's Tinker Tweaks from v2.0.1B2 to v2.0.4
+-Updated IronChests2 from v6.0.51.734 to v6.0.56.739
+-Updated Lycanite's Mobs from v1.9.0 to v1.9.1b
+-Updated Mantle from v0.3.0 to v0.3.1
+-Updated Mine & Blade - BattleGear 2 from v1.0.5.6 to v1.0.5.7
+-Updated Minefactory Reloaded from v2.8.0RC2-557 to v2.8.0RC3-591
+-Updated MineTweaker from v3.0.7 to v3.0.8B
+-Updated MobiusCore from v1.2.2a to v1.2.3
+-Updated NotEnoughItems from v1.0.3.49 to v1.0.3.56
+-Updated OpenBlocks from v1.3-snapshot-431 to v1.3-snapshot-433
+-Updated Opis from v1.2.2a to v1.2.3
+-Updated ProjectRed Base from v4.4.5.44 to v4.4.8.47
+-Updated ProjectRed Compat from v4.4.5.44 to v4.4.8.47
+-Updared ProjectRed Integration from v4.4.5.44 to v4.4.8.47
+-Updated Random Things from v2.1.3 to v2.1.4
+-Updated TiC Tooltips from v1.1.9 to v1.1.10
+-Updated Tinkers' Construct from v1.6.0d39 to v1.6.0d40.1
+-Updated Translocator from v1.1.1.7 to v1.1.1.12
+-Updated Waila Harvestability from v1.0.4 to v1.1.0
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.21b to v0.21c
+
+//changes
+-Custom plank recipes added for Natura trees.
+-Tuned Lycanite Mob gen down some. More tweaks may be needed.
+
+//removals
+-Removed Journey Map
+
+//additions
+-Added Falling Meteors v2.13.1
+-Added MobiusCore v1.2.2a
+-Added Opis v1.2.2a
+-Added SpecialAI v1.0.1
+-Added StartingInventory v1.7.10.r01
+-Added Translocators v1.1.1.7
+
+//updates
+-Updated Advanced Health Options from v1.4.1.7 to v1.5.0.10
+-Updated Baubles from v1.0.1.3 to v1.0.1.5
+-Updated BiblioWoods[BiomesO'Plenty] from v1.6 to v1.7
+-Updated BiblioWoods[Natura] from v1.2 to v1.3
+-Updated Biomes O' Plenty from v2.1.0.953 to v2.1.0.977
+-Updated Botania from v1.1-100 to v1.2-104
+-Updated BspkrsCore from v6.13 to v6.14
+-Updated Chisel from v1.5.6a to v1.5.6b
+-Updated CodeChickenCore from v1.0.2.13 to v1.0.3.23
+-Updated CodeChickenLib from v1.1.1.96 to v1.1.1.101
+-Updated CoFH Core from v3.0.0B3-26 to v3.0.0B5-30.jar
+-Updated CoFH Lib from v1.0.0B3-20 to v1.0.0B4-24
+-Updated CopyCore from v1.2.0.3 to v1.4.0.5
+-Updated EnderStorage from v1.4.4.11 to v1.4.5.19
+-Updated EnviroMine from v1.2.8 to v1.2.17
+-Updated ExtraUtilities from v1.1.0g to v1.1.0i
+-Updated Forge from v10.13.0.1205 to v10.13.0.1207
+-Updated Iguanas Tinker Tweaks from v2.0.0 to v2.0.1B2
+-Updated InGameInfoXML from v2.8.0.58 to v2.8.0.61
+-Updated IronChests2 from v6.0.43.730 to v6.0.51.734
+-Updated KingCore from v3.3.2.18 to v3.4.2.19
+-Updated Lycanite's Mobs from v1.8.1d to v1.9.0
+-Updated Mine Tweaker 3 from v3.0.6 to v3.0.7
+-Updated NEI Addons from v1.12.0.4 to v1.12.2.9
+-Updated NotEnoughItems from v1.0.2.36 to v1.0.3.49
+-Updated OpenBlocks from v1.3-snapshot-424 to v1.3-snapshot-431
+-Updated OpenModsLib from v0.6-snapshot-220 to v0.6-snapshot-224
+-Updated RandomThings from v2.1.2 to v2.1.3
+-Updated Roguelike Dungeons from v1.3.4 to v1.3.5
+-Updated Spice of Life from v1.1.0 to v1.1.1
+-Updated Stackie from v1.5.0.27 to v1.5.1.28
+-Updated Thermal Expansion from v4.0.0B3-11 to v4.0.0B5-13
+-Updated Thermal Foundation from v1.0.0B1-6 to v1.0.0B3-8
+-Updated TiC Tooltips from v1.1.8a to v1.1.9
+-Updated Tinkers' Construct from v1.6.0d37 to v1.6.0d39
+-Updated VeinMiner from v0.20.0 to v0.21.0
+-Updated Waila from v1.5.3 to v1.5.3a
+
+
+
+---------------------------------------------------------------------
+
+
+//changes from v0.21a to v0.21b (1.7.10)
+
+//changes
+-Modified VeinMiner configs to match new file structure and formats.
+-Added Invar Tools & MFR Rubber Trees to VeinMiner.
+-Advanced Health Options health regen modified some. (may have been in previous version as well..)
+
+//removals
+-Removed Zombie Awareness
+-Removed CoroUtil
+
+//additions
+-Added BiblioWoods (Biomes O' Plenty) v1.6
+-Added BiblioWoods (Natura) v1.2
+-Added Deadly Worlds v1.0.2
+-Added EnviroMine v1.2.8
+-Added FlatSigns v2.0.0.17
+-Added Iguanas Tinker Tweaks v2.0.0
+-Added ObsidiPlates v3.0.0.18
+
+//updates
+-Updated AOBD from v2.2.2 to v2.2.3
+-Updated Baubles from v1.0.1.2 to v1.0.1.3
+-Updated Botania from v1.1-96 to v1.1-100
+-Updated Carpenter's Blocks from v3.2.5 to v3.2.6
+-Updated Chisel from v1.5.6 to v1.5.6a
+-Updated CoFH Core from v3.0.0B2-24 to v3.0.0B3-26
+-Updated CoFH Lib from v1.0.0B2-18 to v1.0.0B3-20
+-Updated Doomlike Dungeons from v1.3.2 to v1.4.0
+-Updated Extra Utilities from v1.1.0f to v1.1.0g
+-Updated Forge from v10.13.0.1191 to v10.13.0.1205
+-Updated Hardcore Endercore Ender Expansion from v1.6.2-pre to v1.6.2
+-Updated InfernalMobs
+-Updated Inventory Tweaks from v1.57-116 to v1.59-dev-152
+-Updated Lycanites' Mobs from v1.7.3 to v1.8.1d
+-Updated Minefactory Reloaded from v2.8.0RC1-540 to v2.8.0RC2-557
+-Updated ModTweaker from v0.5c to v0.5d
+-Updated Nether Ores from v2.3.0RC2-76 to v2.3.0RC3-84
+-Updated Ruins
+-Updated Thermal Expansion from v4.0.0B1-9 to  v4.0.0B3-11
+-Updated Thermal Foundation from v1.0.0B1-4 to v1.0.0B1-6
+-Updated Tinkers' Construct from v1.6.0d36 to v1.6.0d37
+-Updated VeinMiner from v0.17.0 to v0.20.0
+
+---------------------------------------------------------------------
+
+//changelog from v0.20a to v0.21a (1.7.10)
+
+//changes
+-Modified Ruins configs
+-Modified OpenBlocks Configs
+-Recreated configs for Lycanite's as required for latest update.
+-Removed Forestry Trees from MineTweaker recipes.
+-Edit updated config options for Ohairacaine Tweaks
+-Reenabled Balkon's Weaponmod MineTweaker recipes.
+-Removed surface ore-gravel gen.
+-Removed TiC ore gen, using TE ores.
+
+//removals
+-BattleTowers
+-Forestry
+-NEI Forestry
+-Thaumcraft
+-Thaumic Tinkerer
+
+//additions
+-OpenMods v1.3-snapshot-424
+--OpenModsLib v0.6-snapshot-220
+-Hardcore Ender Expansion (pre-release) v1.6.2-pre
+--Java7Checker v1.1
+-ModTweaker v0.5c
+-Balkon's WeaponMod v1.14.2
+-Craft Heraldry v1.1.3
+
+//updates
+-Updated Forge from v10.13.0.1187 to v10.13.0.1191
+-Updated Ohairacaine Tweaks from v1.3 to v1.4
+-Updated Botania from v1.1-92 to v1.1-96
+-Updated AOBD from v2.2.1 to v2.2.2
+-Updated NEIAddons from v1.12.0.1 to v1.12.0.4
+-Updated Biomes O' Plenty from v2.1.0.943 to v2.1.0.953
+-Updated CoFH Core from v3.0.0B1-19 to v3.0.0B1-24
+-Updated CoFH Lib from v1.0.0B2-14 to v1.0.0B2-18
+-Updated Thermal Expansion from v4.0.0B1-3 to v4.0.0B1-9
+-Updated Thermal Foundation from v1.0.0B1-2 to v1.0.0B1-4
+-Updated Lycanite's Mobs from v1.7.1b to v1.7.3
+-Updated IronChests2 from v6.0.41.729 to v6.0.43.730
+-Updated Tinkers' Contruct from v_1.6.0d35 to v1.6.0d36
+-Updated Extra Utilities from v1.1.0e to v1.1.0f
+
+
+
+---------------------------------------------------------------------
+
+//changelog from v0.19b(1.7.2) to v0.20a_1.7.10
+
+//changes
+-Modified Lucky Blocks config
+-Modified TiC config a bit.
+
+
+//removals
+-LittleFix
+-Ender Tanks
+--ShetiphanCore (Ender Tanks dependency)
+-Simple Fluid Tanks
+-EnderIO
+-Bedrock Layer
+
+//additions
+-Ender Storage v1.4.4.11
+-Waila Harvestability v1.0.4
+-Advanced Health Options v1.4.1.7
+--CopyCore (Dependency of AHO) v1.2.0.3
+-ZombieAwareness v1.9.2
+--CoroUtil (Dependency of ZombieAwareness) v1.0
+-Thermal Expansion v4.0.0B1-3
+--CoFH Core v3.0.0B1-19
+--CoFH Lib v1.0.0B2-14
+--Thermal Foundation v1.0.0B1-2
+-Minefactory Reloaded v2.8.0RC1-540
+-Nether Ores v2.3.0RC2-76
+-Project Red - Base v4.4.5.44
+-Project Red - Compat v4.4.5.44
+-Project Red - Integration v4.4.5.44
+
+
+//updates
+-Too many to list, basically every mod lol
